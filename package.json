@@ -1,5 +1,5 @@
 {
-  "homepage": "http://heamgadiyaram.github.io/playlistconverter",
+  "homepage": "http://heamgadiyaram.github.io/converter",
   "name": "converter-frontend",
   "version": "0.1.0",
   "proxy": "http://localhost:5000",
